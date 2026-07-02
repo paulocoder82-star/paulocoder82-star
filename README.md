@@ -24,8 +24,7 @@ Misturo uma forte base lógica e analítica com o ecossistema moderno de desenvo
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulocoder82-star&show_icons=true&theme=gotham" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulocoder82-star&layout=compact&theme=gotham" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulocoder82-star&theme=gotham" height="150" alt="GitHub Streak Stats" />
 </p>
 
 ---
